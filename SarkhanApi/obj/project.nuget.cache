@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZlHIctqdBLKPciV3aFQcQMey66+0B5uj7/wnF9S6Xau92+HR42E5VEx1OptkoxfxBXP+aq7NG/eBXZw8MdI4hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarxan\\Desktop\\SarkhanApi\\SarkhanApi\\SarkhanApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarxan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sarxan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sarxan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Sarxan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Sarxan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Sarxan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
